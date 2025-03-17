@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Gustavo Lima | Front-End Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Desenvolvedor+Front-End+apaixonado+por+tecnologia!;CEO+da+Astroodev+e+criador+da+SpaceCore." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Desenvolvedor+Front-End." alt="Typing SVG" />
 </p>
 
 ---
