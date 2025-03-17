@@ -1,12 +1,11 @@
-<h1 align="center">🚀 Gustavo Lima | Front-End Developer</h1>
+<h1 align="center">🚀 Gustavo Lima | Front-End Developer</h1><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gustavosl1&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Desenvolvedor+Front-End." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gustavosl1&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
