@@ -26,7 +26,7 @@
 
 ## 📊 Estatísticas  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLima&show_icons=true&theme=midnight-purple&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavosl1&show_icons=true&theme=midnight-purple&count_private=true" />
 </div>
 
 ---
