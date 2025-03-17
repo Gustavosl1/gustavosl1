@@ -32,8 +32,8 @@
 ---
 
 ## 📫 Contato  
-📩 E-mail: **[Seu E-mail Aqui]**  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil) | [Instagram](https://instagram.com/seu-perfil)  
+📩 E-mail: **[gusouzalima5@gmail.com]**  
+🔗 [LinkedIn](www.linkedin.com/in/gustavo-lima-91a88320b) | [Instagram](https://www.instagram.com/gustavo_s.l10/)  
 
 ---
 
