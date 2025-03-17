@@ -12,7 +12,6 @@
 
 ## 🌟 Sobre mim  
 💻 Desenvolvedor Front-End, especializado em **HTML, CSS e JavaScript**  
-🚀 CEO da **Astroodev** | Criador da **SpaceCore**  
 📚 Atualmente estudando **React e Banco de Dados**  
 🎯 Apaixonado por tecnologia, programação e inovação  
 
@@ -28,7 +27,7 @@
 ## 📊 Estatísticas  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLima&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLima&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLima&theme=aura" />
 </div>
 
 ---
